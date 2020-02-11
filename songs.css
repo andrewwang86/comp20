@@ -14,6 +14,7 @@ song {
 		font-style: bold;
 		font-size: 30px;}
 	artist {
+		display:block;
 		font-style:bold;
 		font-size: 26px;
 		color: #444444;}
