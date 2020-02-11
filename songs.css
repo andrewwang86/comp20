@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+song {
+	display:block;
+	text-align: center;
+	margin-bottom: 10px; 
+	padding-bottom: 10px;
+	border-bottom: 1px solid #AAAAAA;
+	font-family:"Gill Sans", Helvetica, "sans-serif"}
+	
+	songtitle {
+		display:block;
+		font-style: bold;
+		font-size: 30px;}
+	artist {
+		font-style:bold;
+		font-size: 26px;
+		color: #444444;}
+	genre {
+		display:block;
+		font-style: italic;
+		font-size: 18px;}
+	year {
+		display:block;
+		font-style: italic;
+		font-size: 18px;}

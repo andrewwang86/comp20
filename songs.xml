@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href = "songs.css"?>
+<songs>
+	<song>
+		<songtitle>Hero</songtitle>
+		<artist>Charlotte Perrelli</artist>
+		<genre>Pop</genre>
+		<year>2008</year>
+	</song>
+	<song>
+		<songtitle>Nobody</songtitle>
+		<artist>Klara Hammarström</artist>
+		<genre>Pop</genre>
+		<year>2020</year>
+	</song>
+	<song>
+		<songtitle>Kingdom Come</songtitle>
+		<artist>Anna Bergendahl</artist>
+		<genre>Pop</genre>
+		<year>2020</year>
+	</song>
+	<song>
+		<songtitle>She Got Me</songtitle>
+		<artist>Luca Hänni</artist>
+		<genre>Pop</genre>
+		<year>2019</year>
+	</song>
+	<song>
+		<songtitle>Replay</songtitle>
+		<artist>Tamta</artist>
+		<genre>Pop</genre>
+		<year>2019</year>
+	</song>
+	<song>
+		<songtitle>Ballerina</songtitle>
+		<artist>Malou Prytz</artist>
+		<genre>Pop</genre>
+		<year>2020</year>
+	</song>
+	<song>
+		<songtitle>Requiem</songtitle>
+		<artist>Alma</artist>
+		<genre>Pop</genre>
+		<year>2017</year>
+	</song>
+	<song>
+		<songtitle>Monsters</songtitle>
+		<artist>Saara Aalto</artist>
+		<genre>Pop</genre>
+		<year>2018</year>
+	</song>
+	<song>
+		<songtitle>Drip Drop</songtitle>
+		<artist>Safura</artist>
+		<genre>Pop</genre>
+		<year>2010</year>
+	</song>
+	<song>
+		<songtitle>Undo</songtitle>
+		<artist>Sanna Nielsen</artist>
+		<genre>Pop</genre>
+		<year>2014</year>
+	</song>	
+	<song>
+		<songtitle>You Are The Only One</songtitle>
+		<artist>Sergey Lazarev</artist>
+		<genre>Pop</genre>
+		<year>2016</year>
+	</song>	
+</songs>
